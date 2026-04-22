@@ -6,19 +6,31 @@
 > Demonstrates end-to-end data analytics engineering: data cleaning → feature engineering → ML modeling → interactive dashboard.
 
 ---
-
 ## 📊 Live Dashboard Preview
 
-| Value Stream Map | KPI Dashboard |
-|---|---|
-| Plan→Make→Source→Deliver with bottleneck flags | 6 live KPIs with filters |
+### Delay by Shipping Mode
+![Delay by Shipping Mode](chart1_delay_by_shipping_mode.png)
 
-| Anomaly Detection | Demand Forecast |
-|---|---|
-| Isolation Forest ML - 5% anomaly rate | 6-month outlook with confidence band |
+### Delay Trend Over Time
+![Delay Trend Over Time](chart2_delay_trend_over_time.png)
 
----
+### Top Late Categories
+![Top Late Categories](chart3_top_late_categories.png)
 
+### Anomaly Detection
+![Anomaly Detection](chart4_anomaly_detection.png)
+
+### Demand Forecast
+![Demand Forecast](chart5_demand_forecast.png)
+
+### KPI Summary Dashboard
+![KPI Summary](chart6_kpi_summary.png)
+
+### ML Forecast Comparison
+![ML Forecast Comparison](chart7_ml_forecast_comparison.png)
+
+### Feature Importance
+![Feature Importance](chart8_feature_importance.png)
 ## 🎯 Project Overview
 
 This project analyzes **180,519 real supply chain orders** (DataCo Smart Supply Chain dataset) to surface operational insights directly relevant to clinical trial packaging operations:
