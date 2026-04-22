@@ -6,6 +6,15 @@
 > Demonstrates end-to-end data analytics engineering: data cleaning → feature engineering → ML modeling → interactive dashboard.
 
 ---
+## 🖥️ Live Streamlit Dashboard
+
+### Interactive Dashboard with Green-Amber-Red Risk Scoring
+![Streamlit Dashboard](dashboard_preview.png)
+
+### Weekly Pack Job Tracking Board
+![Pack Job Tracking](dashboard_packjob.png)
+
+------
 ## 📊 Live Dashboard Preview
 
 ### Delay by Shipping Mode
