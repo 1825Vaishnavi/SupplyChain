@@ -1,5 +1,5 @@
 # 💊 Pfizer GCS - Supply Chain Operations Analytics
-
+ 
 **Clinical Trial Packaging · Plan-Make-Source-Deliver · Operational Intelligence**
 
 > Built as part of interview preparation for the Pfizer Operational Data Analyst Co-op (Global Clinical Supply, Groton CT).  
