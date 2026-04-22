@@ -1,0 +1,5 @@
+shipping_mode,delay_rate,order_count,delay_rate_pct
+First Class,1.0,27814,100.0
+Same Day,0.4782787306151792,9737,47.8
+Second Class,0.7973080417991822,35216,79.7
+Standard Class,0.3976817135644814,107752,39.8

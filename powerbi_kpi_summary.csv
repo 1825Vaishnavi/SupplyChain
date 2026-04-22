@@ -1,0 +1,9 @@
+metric,value,unit
+Total Orders,180519.0,orders
+Late Delivery Rate,57.3,%
+On-Time Rate,42.7,%
+Avg Delay Days,1.6,days
+Total Sales,36784735.0,USD
+Avg Profit/Order,21.97,USD
+Anomaly Rate,5.0,%
+Forecast Accuracy,100.0,%
