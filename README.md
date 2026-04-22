@@ -15,7 +15,7 @@
 
 | Anomaly Detection | Demand Forecast |
 |---|---|
-| Isolation Forest ML — 5% anomaly rate | 6-month outlook with confidence band |
+| Isolation Forest ML - 5% anomaly rate | 6-month outlook with confidence band |
 
 ---
 
@@ -149,9 +149,9 @@ python step4_fixed_forecast.py
 |---|---|---|
 | Order Planning | 1.2d | LOW |
 | Material Sourcing | 2.1d | MEDIUM |
-| Packaging Ops | 3.8d | HIGH ⚠ |
-| QA / Labeling | 2.4d | HIGH ⚠ |
-| Distribution | 4.2d | HIGH ⚠ |
+| Packaging Ops | 3.8d | HIGH  |
+| QA / Labeling | 2.4d | HIGH  |
+| Distribution | 4.2d | HIGH  |
 | Site Delivery | 1.0d | MEDIUM |
 
 ### 5. Demand Forecasting
@@ -165,14 +165,14 @@ python step4_fixed_forecast.py
 
 | JD Requirement | Built |
 |---|---|
-| Operational data collection & analytics | ✅ 180K orders analyzed |
-| Visual operations production boards | ✅ Streamlit dashboard with live filters |
-| Pack job tracking (daily/weekly) | ✅ Weekly Pack Job Tracking Board |
-| Value stream mapping | ✅ Full VSM - Plan→Make→Source→Deliver |
-| Data-driven decision support | ✅ 8 KPIs + anomaly flags + forecasts |
-| Supply chain planning methods | ✅ Delay analysis, demand forecasting |
-| Statistical analysis & data mining | ✅ Isolation Forest, regression, feature engineering |
-| Process variability reduction | ✅ Cycle time analysis per VSM step |
+| Operational data collection & analytics |  180K orders analyzed |
+| Visual operations production boards |  Streamlit dashboard with live filters |
+| Pack job tracking (daily/weekly) |  Weekly Pack Job Tracking Board |
+| Value stream mapping |  Full VSM - Plan→Make→Source→Deliver |
+| Data-driven decision support |  8 KPIs + anomaly flags + forecasts |
+| Supply chain planning methods |  Delay analysis, demand forecasting |
+| Statistical analysis & data mining |  Isolation Forest, regression, feature engineering |
+| Process variability reduction |  Cycle time analysis per VSM step |
 
 ---
 
